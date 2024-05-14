@@ -28,6 +28,7 @@ h1, h2, h3 {
 .hidden-heading {
   display: none;
 }
+
 /* Header */
 header {
   background-color: #fff;
@@ -45,8 +46,6 @@ header a {
   text-decoration: none;
   color: inherit;
 }
-
-
 
 #menu {
   font-size: 110%;
@@ -247,7 +246,6 @@ main {
   margin-top: 20px;
   padding: 15px 32px;
 }
-
 
 /* Footer */
 #social-networks {
